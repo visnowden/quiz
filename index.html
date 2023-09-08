@@ -1,33 +1,46 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz de Linguagens</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon" />
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Quiz sobre Linguagens</title>
-  <link rel="stylesheet" href="style.css" />
-  <link rel="shortcut icon" href="icon.png" type="image/x-icon">
-</head>
+  <body>
+    <div class="main">
+      <h1 id="title"></h1>
+      <div class="questions">
+        <br />
+        <p id="question"></p>
 
-<body>
-  <div class="main">
-    <h1 id="title"></h1>
-    <div class="questions">
-      <br />
-      <p id="question"></p>
-      <ul>
-      <li><input class="answers" type="radio" name="answer" id="answer1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </input></li>
-      <li><input class="answers" type="radio" name="answer" id="answer2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </input></li>
-      <li><input class="answers" type="radio" name="answer" id="answer3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </input></li>
-      <li><input class="answers" type="radio" name="answer" id="answer4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </input></li>
-      <li><input class="answers" type="radio" name="answer" id="answer5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </input></li>
-</ul>
-<p><br /><span id="structure"></span></p>
+        <div id="answer1" class="answers">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </div>
+        <div id="answer2" class="answers">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </div>
+        <div id="answer3" class="answers">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </div>
+        <div id="answer4" class="answers">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </div>
+        <div id="answer5" class="answers">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </div>
+
+        <p><br /><span id="structure"></span></p>
+      </div>
+      <!-- <button onclick="confirmAnswer()">Botão</button> -->
     </div>
-    <!-- <button onclick="confirmAnswer()">Botão</button> -->
-  </div>
-</body>
+  </body>
 
-<script src="script.js"></script>
-
+  <script src="script.js"></script>
 </html>
