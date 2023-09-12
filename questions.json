@@ -1,0 +1,123 @@
+[
+  {},
+  {
+    "id": 1,
+    "title": "Fácil",
+    "question": "Qual é a oração coordenada na seguinte frase: 'Ele gosta de estudar, mas ela prefere sair com os amigos.'?",
+    "answer1": "Ele gosta de estudar",
+    "answer2": "mas",
+    "answer3": "ela prefere sair com os amigos",
+    "answer4": "de",
+    "answer5": "com os amigos",
+    "answer": "answer2",
+    "justify": "A oração coordenada na frase 'Ele gosta de estudar, mas ela prefere sair com os amigos.' é 'mas'. Ela funciona como uma conjunção coordenativa adversativa, estabelecendo uma oposição entre as ações de 'ele gosta de estudar' e 'ela prefere sair com os amigos'."
+  },
+  {
+    "id": 2,
+    "title": "Fácil",
+    "question": "Na frase 'João foi ao mercado e comprou pão e leite', quantas orações coordenadas temos?",
+    "answer1": "0",
+    "answer2": "1",
+    "answer3": "2",
+    "answer4": "3",
+    "answer5": "4",
+    "answer": "answer3",
+    "justify": "Na frase 'João foi ao mercado e comprou pão e leite', temos duas orações coordenadas ligadas pela conjunção 'e'. Isso indica que temos duas ações independentes (João foi ao mercado e João comprou pão e leite) unidas por uma conjunção coordenativa aditiva."
+  },
+  {
+    "id": 3,
+    "title": "Fácil",
+    "question": "Qual é a oração coordenada assindética na frase: 'Corra, pule, dance!'?",
+    "answer1": "Corra",
+    "answer2": "pule",
+    "answer3": "dance",
+    "answer4": "Corra, pule",
+    "answer5": "pule, dance",
+    "answer": "answer4",
+    "justify": "A oração coordenada assindética na frase 'Corra, pule, dance!' não possui nenhuma conjunção coordenativa conectando as ações. Cada verbo ('corra,' 'pule,' 'dance') é uma oração independente que transmite uma ação separada, sem uso de conectivos."
+  },
+  {
+    "id": 4,
+    "title": "Fácil",
+    "question": "Identifique a oração coordenada adversativa na frase: 'Ele queria sair, porém estava chovendo muito.'",
+    "answer1": "Ele queria sair",
+    "answer2": "porém",
+    "answer3": "estava chovendo muito",
+    "answer4": "queria sair, porém",
+    "answer5": "sair, porém estava",
+    "answer": "answer2",
+    "justify": "A oração coordenada adversativa na frase 'Ele queria sair, porém estava chovendo muito.' é 'porém'. Ela funciona como uma conjunção coordenativa adversativa, indicando uma contraposição entre o desejo de sair e o impedimento causado pela chuva."
+  },
+  {
+    "id": 5,
+    "title": "Fácil",
+    "question": "Qual é a oração coordenada sindética na frase: 'Maria estudou bastante e passou no exame.'?",
+    "answer1": "Maria estudou bastante",
+    "answer2": "e passou",
+    "answer3": "passou no exame",
+    "answer4": "estudou bastante, e",
+    "answer5": "passou no exame.",
+    "answer": "answer4",
+    "justify": "A oração coordenada sindética na frase 'Maria estudou bastante e passou no exame.' é 'e passou'. Aqui, a conjunção 'e' liga as duas ações, indicando uma relação aditiva entre elas. Maria estudou bastante e o resultado foi que ela passou no exame."
+  },
+  {
+    "id": 6,
+    "title": "Médio",
+    "question": "Identifique a oração coordenada assindética nas seguintes frases: 'Ele corre, pula, nada.'",
+    "answer1": "Ele corre",
+    "answer2": "pula",
+    "answer3": "nada",
+    "answer4": "corre, pula",
+    "answer5": "pula, nada",
+    "answer": "answer4",
+    "justify": "A oração coordenada assindética na frase 'Ele corre, pula, nada.' não possui conjunções coordenativas. Cada verbo ('corre,' 'pula,' 'nada') é uma oração independente, e a ausência de conjunções cria uma sequência de ações coordenadas de forma enfática."
+  },
+  {
+    "id": 7,
+    "title": "Médio",
+    "question": "Na frase 'O filme era interessante, mas o final decepcionou', qual é a oração coordenada aditiva?",
+    "answer1": "O filme era interessante",
+    "answer2": "mas",
+    "answer3": "o final decepcionou",
+    "answer4": "era interessante, mas",
+    "answer5": "interessante, mas o final",
+    "answer": "answer1",
+    "justify": "Na frase 'O filme era interessante, mas o final decepcionou', a oração coordenada aditiva é 'O filme era interessante'. Ela é a primeira parte da frase, que descreve uma característica do filme. A conjunção 'mas' introduz a segunda oração, que expressa uma oposição ao que foi dito anteriormente."
+  },
+  {
+    "id": 8,
+    "title": "Médio",
+    "question": "Qual é a oração coordenada sindética alternativa na frase: 'Você pode escolher entre estudar para a prova ou relaxar no fim de semana.'?",
+    "answer1": "Você pode escolher",
+    "answer2": "entre estudar para a prova",
+    "answer3": "ou relaxar no fim de semana",
+    "answer4": "estudar para a prova ou",
+    "answer5": "relaxar no fim de semana.",
+    "answer": "answer3",
+    "justify": "A oração coordenada sindética alternativa na frase 'Você pode escolher entre estudar para a prova ou relaxar no fim de semana.' é 'ou relaxar no fim de semana'. A conjunção 'ou' apresenta duas opções mutuamente excludentes, dando ao leitor duas alternativas para escolher."
+  },
+  {
+    "id": 9,
+    "title": "Médio",
+    "question": "Identifique a oração coordenada adversativa na seguinte frase: 'Ela queria sair, entretanto, ficou em casa.'",
+    "answer1": "Ela queria sair",
+    "answer2": "entretanto,",
+    "answer3": "ficou em casa",
+    "answer4": "queria sair, entretanto,",
+    "answer5": "sair, entretanto, ficou",
+    "answer": "answer2",
+    "justify": "A oração coordenada adversativa na frase 'Ela queria sair, entretanto, ficou em casa.' é 'entretanto'. Essa conjunção indica uma oposição ou contraposição entre o desejo de sair e a decisão de ficar em casa, estabelecendo um contraste entre as ações."
+  },
+  {
+    "id": 10,
+    "title": "Médio",
+    "question": "Na frase 'Ela foi ao cinema e ele ao teatro', quantas orações coordenadas temos?",
+    "answer1": "0",
+    "answer2": "1",
+    "answer3": "2",
+    "answer4": "3",
+    "answer5": "4",
+    "answer": "answer3",
+    "justify": "Na frase 'Ela foi ao cinema e ele ao teatro', temos duas orações coordenadas ligadas pela conjunção 'e'. Isso indica que temos duas ações independentes (Ela foi ao cinema e Ele foi ao teatro) unidas por uma conjunção coordenativa aditiva. Cada ação é apresentada de forma igual, sem contraposição ou oposição."
+  }
+]
