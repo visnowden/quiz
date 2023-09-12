@@ -1,5 +1,5 @@
 body {
-  background-color: #00f7ff;
+  background-color: #000;
   text-align: center;
   justify-content: center;
   display: flex;
@@ -11,7 +11,7 @@ body {
   color: #ffffff;
   position: fixed;
   background-color: #48008c;
-  width: 450px;
+  width: calc(100% - 45px);
   height: calc(100% - 45px);
   border-radius: 16px;
   align-content: center;
@@ -24,27 +24,35 @@ body {
   text-align: left;
   border-color: #ffffff;
   word-wrap: break-word;
-  background-color: #0000ff;
   padding: 10px;
 }
 
 .answers {
-  color: white;
-  justify-content: left;
-  align-items: normal;
-  background-color: #f00000;
-  border-radius: 15px;
-  padding: 5px;
-  margin-bottom: 5px;
-}
-.answers {
-  border: none;
-  background-color: #ff0000;
   color: #ffffff;
+  justify-content: left;
+  background-color: #0055ff;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 5px;
   transition: all ease 200ms;
 }
 
+#justify {
+  display: none;
+}
+
+.logs {
+  text-align: center;
+}
+
+#logs {
+  transition: color ease-out 1.3s;
+}
+
+.hidden {
+  color: transparent;
+}
+
 .clicked {
-  background-color: green;
-  color: black;
+  background-color: #003399;
 }
