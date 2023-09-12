@@ -7,7 +7,7 @@ correctAnswerButtons.forEach(function (element) {
     element.classList.add("clicked")
   })
 })
-questionIndex = 19
+questionIndex = 0
 function loadQuestion() {
   questionIndex++
   title = document.getElementById("title")
