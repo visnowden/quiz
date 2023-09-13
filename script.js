@@ -7,7 +7,7 @@ correctAnswerButtons.forEach(function (element) {
     element.classList.add("clicked")
   })
 })
-questionIndex = 19
+questionIndex = 0
 function loadQuestion() {
   questionIndex++
   title = document.getElementById("title")
@@ -27,7 +27,6 @@ function loadQuestion() {
       return response.json()
     })
     .then((data) => {
-      console.log(questionIndex)
       if (questionIndex == data.length) {
         button.style.display = "none"
         questionIndex = 0
