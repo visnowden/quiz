@@ -1,3 +1,1 @@
-# Quiz de Linguagens
- 
-[Site hospedado](https://hacker-bug-hunter.github.io/Quiz)
+# [Quiz de Linguagens](https://hacker-bug-hunter.github.io/Quiz)
