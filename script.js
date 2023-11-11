@@ -78,3 +78,4 @@ function msg(element, text) {
   }, 2000)
 }
 loadQuestion()
+ 
