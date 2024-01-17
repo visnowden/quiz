@@ -31,7 +31,7 @@ function loadQuestion() {
         button.style.display = "none"
         questionIndex = 0
       }
-      /* Agora você pode trabalhar com os dados como um objeto JavaScript*/
+      
       title.innerHTML = `${data[questionIndex]["id"]}. ${data[questionIndex]["title"]}`
       question.innerHTML = data[questionIndex]["question"]
       optionA.innerHTML = data[questionIndex]["optionA"]
