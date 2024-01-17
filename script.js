@@ -43,7 +43,7 @@ function loadQuestion() {
       explanation.innerHTML =
         data[questionIndex][
           "explanation"
-        ] /* Por exemplo, você pode acessar propriedades do objeto JSON*/ /*console.log(data.id)*/ /* Ou iterar sobre arrays de objetos JSON*/ /* data.forEach(item => {*/ /*   console.log(item.id, item.title)*/ /* })*/
+        ]
     })
     .catch((error) => {
       console.error(error)
