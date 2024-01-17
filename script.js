@@ -19,7 +19,7 @@ function loadQuestion() {
   optionE = document.getElementById("optionE")
   explanation = document.getElementById("explanation")
   button = document.getElementById("button")
-  fetch("questions.json") /* Especifique o nome do arquivo JSON*/
+  fetch("questions.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error("Erro na requisição!")
