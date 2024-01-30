@@ -63,7 +63,7 @@ function loadQuestion() {
           element.classList.remove("clicked")
         }
       } else {
-        msg(logs, "Errou Vacalo!!!")
+        msg(logs, "Errou camarada!!!")
       }
     } else {
       msg(logs, "Por favor, escolha uma alternativa!")
