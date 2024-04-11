@@ -1,3 +1,3 @@
 # [Quiz](https://visnowden.github.io/quiz)
 
-A simple quiz (according to [questions.json](questions.json))
+A simple quiz [questions.json](questions.json)
